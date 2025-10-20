@@ -1,0 +1,341 @@
+2025-10-16 12:57:50 - Deleted directory: D:\Python_projects\windows_siem\download_event_log\download_activity.log
+2025-10-16 12:59:44 - Deleted directory: D:\Python_projects\windows_siem\download_event_log\download_activity.log
+2025-10-16 13:00:31 - Deleted directory: D:\Python_projects\windows_siem\download_event_log\download_activity.log
+2025-10-16 13:07:52 - Deleted directory: D:\Python_projects\windows_siem\download_event_log\download_activity.log
+2025-10-16 13:08:09 - File: download (2).jpg No data retrieval from VirusTotal
+2025-10-16 13:12:12 - Deleted directory: D:\Python_projects\windows_siem\download_event_log\download_activity.log
+2025-10-16 13:12:31 - File: download (3).jpg No data retrieval from VirusTotal
+2025-10-16 13:17:36 - Deleted directory: D:\Python_projects\windows_siem\download_event_log\download_activity.log
+2025-10-16 13:17:52 - File: sqlite-show-tables.jpg No data retrieval from VirusTotal
+2025-10-16 13:17:52 - END LOG
+2025-10-20 11:45:35 - Deleted directory: D:\Python_projects\windows_siem\download_event_log\download_activity.log
+2025-10-20 11:45:51 - File: download (2).jpg No data retrieval from VirusTotal
+2025-10-20 11:45:51 - END LOG
+2025-10-20 11:51:35 - Deleted directory: D:\Python_projects\windows_siem\download_event_log\download_activity.log
+2025-10-20 11:51:52 - File: download (3).jpg No data retrieval from VirusTotal
+2025-10-20 11:51:52 - END LOG
+2025-10-20 11:52:06 - Deleted directory: D:\Python_projects\windows_siem\download_event_log\download_activity.log
+2025-10-20 11:52:31 - File: download (1).jpg No data retrieval from VirusTotal
+2025-10-20 11:52:31 - END LOG
+2025-10-20 11:55:08 - Created file: C:\Users\Jajul\Downloads\8a5045c9-e97a-42ec-8240-e3a552818158.tmp
+2025-10-20 11:55:08 - Modified file: C:\Users\Jajul\Downloads\8a5045c9-e97a-42ec-8240-e3a552818158.tmp
+2025-10-20 11:55:21 - File: download (2).jpg No data retrieval from VirusTotal
+2025-10-20 11:55:21 - END LOG
+2025-10-20 11:55:21 - Created file: C:\Users\Jajul\Downloads\download (2).jpg
+2025-10-20 11:55:21 - Deleted file: C:\Users\Jajul\Downloads\download (2).jpg
+2025-10-20 11:55:21 - Moved file: from C:\Users\Jajul\Downloads\8a5045c9-e97a-42ec-8240-e3a552818158.tmp to C:\Users\Jajul\Downloads\download (2).jpg.opdownload
+2025-10-20 11:55:21 - Moved file: from C:\Users\Jajul\Downloads\download (2).jpg.opdownload to C:\Users\Jajul\Downloads\download (2).jpg
+2025-10-20 11:55:21 - Modified file: C:\Users\Jajul\Downloads\download (2).jpg
+2025-10-20 11:57:33 - Modified directory: C:\Users\Jajul\Downloads\AnalysisReports
+2025-10-20 11:57:33 - Modified directory: C:\Users\Jajul\Downloads\assets
+2025-10-20 11:57:34 - Modified directory: C:\Users\Jajul\Downloads\assets\epicfight
+2025-10-20 11:57:34 - Modified directory: C:\Users\Jajul\Downloads\assets\epicfight\animmodels
+2025-10-20 11:57:34 - Modified directory: C:\Users\Jajul\Downloads\assets\epicfight\animmodels\animations
+2025-10-20 11:57:34 - Modified directory: C:\Users\Jajul\Downloads\assets\epicfight\animmodels\animations\biped
+2025-10-20 11:57:34 - Modified directory: C:\Users\Jajul\Downloads\assets\epicfight\animmodels\animations\biped\combat
+2025-10-20 11:57:34 - Modified directory: C:\Users\Jajul\Downloads\assets\epicfight\animmodels\animations\biped\combat\data
+2025-10-20 11:57:34 - Modified directory: C:\Users\Jajul\Downloads\assets\epicfight\animmodels\animations\biped\interact
+2025-10-20 11:57:34 - Modified directory: C:\Users\Jajul\Downloads\assets\epicfight\animmodels\animations\biped\living
+2025-10-20 11:57:34 - Modified directory: C:\Users\Jajul\Downloads\assets\epicfight\animmodels\animations\biped\living\data
+2025-10-20 11:57:35 - Modified directory: C:\Users\Jajul\Downloads\assets\epicfight\animmodels\animations\biped\skill
+2025-10-20 11:57:35 - Modified directory: C:\Users\Jajul\Downloads\assets\epicfight\animmodels\animations\biped\skill\data
+2025-10-20 11:57:35 - Modified directory: C:\Users\Jajul\Downloads\assets\epicfight\animmodels\animations\creeper
+2025-10-20 11:57:35 - Modified directory: C:\Users\Jajul\Downloads\assets\epicfight\animmodels\animations\data
+2025-10-20 11:57:35 - Modified directory: C:\Users\Jajul\Downloads\assets\epicfight\animmodels\animations\dragon
+2025-10-20 11:57:35 - Modified directory: C:\Users\Jajul\Downloads\assets\epicfight\animmodels\animations\enderman
+2025-10-20 11:57:35 - Modified directory: C:\Users\Jajul\Downloads\assets\epicfight\animmodels\animations\hoglin
+2025-10-20 11:57:35 - Modified directory: C:\Users\Jajul\Downloads\assets\epicfight\animmodels\animations\illager
+2025-10-20 11:57:35 - Modified directory: C:\Users\Jajul\Downloads\assets\epicfight\animmodels\animations\iron_golem
+2025-10-20 11:57:35 - Modified directory: C:\Users\Jajul\Downloads\assets\epicfight\animmodels\animations\piglin
+2025-10-20 11:57:36 - Modified directory: C:\Users\Jajul\Downloads\assets\epicfight\animmodels\animations\ravager
+2025-10-20 11:57:36 - Modified directory: C:\Users\Jajul\Downloads\assets\epicfight\animmodels\animations\spider
+2025-10-20 11:57:36 - Modified directory: C:\Users\Jajul\Downloads\assets\epicfight\animmodels\animations\vex
+2025-10-20 11:57:36 - Modified directory: C:\Users\Jajul\Downloads\assets\epicfight\animmodels\animations\vex\data
+2025-10-20 11:57:36 - Modified directory: C:\Users\Jajul\Downloads\assets\epicfight\animmodels\animations\witch
+2025-10-20 11:57:36 - Modified directory: C:\Users\Jajul\Downloads\assets\epicfight\animmodels\animations\witch\data
+2025-10-20 11:57:36 - Modified directory: C:\Users\Jajul\Downloads\assets\epicfight\animmodels\animations\wither
+2025-10-20 11:57:36 - Modified directory: C:\Users\Jajul\Downloads\assets\epicfight\animmodels\animations\wither_skeleton
+2025-10-20 11:57:36 - Modified directory: C:\Users\Jajul\Downloads\assets\epicfight\animmodels\animations\wither_skeleton\data
+2025-10-20 11:57:36 - Modified directory: C:\Users\Jajul\Downloads\assets\epicfight\animmodels\animations\zombie
+2025-10-20 11:57:37 - Modified directory: C:\Users\Jajul\Downloads\assets\epicfight\animmodels\armor
+2025-10-20 11:57:37 - Modified directory: C:\Users\Jajul\Downloads\assets\epicfight\animmodels\entity
+2025-10-20 11:57:37 - Modified directory: C:\Users\Jajul\Downloads\assets\epicfight\animmodels\particle
+2025-10-20 11:57:37 - Modified directory: C:\Users\Jajul\Downloads\assets\epicfight\blockstates
+2025-10-20 11:57:37 - Modified directory: C:\Users\Jajul\Downloads\assets\epicfight\item_skins
+2025-10-20 11:57:37 - Modified directory: C:\Users\Jajul\Downloads\assets\epicfight\lang
+2025-10-20 11:57:37 - Modified directory: C:\Users\Jajul\Downloads\assets\epicfight\models
+2025-10-20 11:57:37 - Modified directory: C:\Users\Jajul\Downloads\assets\epicfight\models\block
+2025-10-20 11:57:37 - Modified directory: C:\Users\Jajul\Downloads\assets\epicfight\models\item
+2025-10-20 11:57:37 - Modified directory: C:\Users\Jajul\Downloads\assets\epicfight\models\item\obj
+2025-10-20 11:57:38 - Modified directory: C:\Users\Jajul\Downloads\assets\epicfight\particles
+2025-10-20 11:57:38 - Modified directory: C:\Users\Jajul\Downloads\assets\epicfight\sounds
+2025-10-20 11:57:38 - Modified directory: C:\Users\Jajul\Downloads\assets\epicfight\sounds\entity
+2025-10-20 11:57:38 - Modified directory: C:\Users\Jajul\Downloads\assets\epicfight\sounds\entity\enderdragon
+2025-10-20 11:57:38 - Modified directory: C:\Users\Jajul\Downloads\assets\epicfight\sounds\entity\hit
+2025-10-20 11:57:38 - Modified directory: C:\Users\Jajul\Downloads\assets\epicfight\sounds\entity\skill
+2025-10-20 11:57:38 - Modified directory: C:\Users\Jajul\Downloads\assets\epicfight\sounds\entity\weapon
+2025-10-20 11:57:38 - Modified directory: C:\Users\Jajul\Downloads\assets\epicfight\sounds\entity\wither
+2025-10-20 11:57:38 - Modified directory: C:\Users\Jajul\Downloads\assets\epicfight\sounds\sfx
+2025-10-20 11:57:38 - Modified directory: C:\Users\Jajul\Downloads\assets\epicfight\textures
+2025-10-20 11:57:39 - Modified directory: C:\Users\Jajul\Downloads\assets\epicfight\textures\entity
+2025-10-20 11:57:39 - Modified directory: C:\Users\Jajul\Downloads\assets\epicfight\textures\gui
+2025-10-20 11:57:39 - Modified directory: C:\Users\Jajul\Downloads\assets\epicfight\textures\gui\overlay
+2025-10-20 11:57:39 - Modified directory: C:\Users\Jajul\Downloads\assets\epicfight\textures\gui\screen
+2025-10-20 11:57:39 - Modified directory: C:\Users\Jajul\Downloads\assets\epicfight\textures\gui\skills
+2025-10-20 11:57:39 - Modified directory: C:\Users\Jajul\Downloads\assets\epicfight\textures\item
+2025-10-20 11:57:39 - Modified directory: C:\Users\Jajul\Downloads\assets\epicfight\textures\mob_effect
+2025-10-20 11:57:39 - Modified directory: C:\Users\Jajul\Downloads\assets\epicfight\textures\models
+2025-10-20 11:57:39 - Modified directory: C:\Users\Jajul\Downloads\assets\epicfight\textures\models\armor
+2025-10-20 11:57:39 - Modified directory: C:\Users\Jajul\Downloads\assets\epicfight\textures\particle
+2025-10-20 11:57:40 - Modified directory: C:\Users\Jajul\Downloads\assets\minecraft
+2025-10-20 11:57:40 - Modified directory: C:\Users\Jajul\Downloads\assets\minecraft\item_skins
+2025-10-20 11:57:40 - Modified directory: C:\Users\Jajul\Downloads\assets\minecraft\textures
+2025-10-20 11:57:40 - Modified directory: C:\Users\Jajul\Downloads\assets\minecraft\textures\entity
+2025-10-20 11:57:40 - Modified directory: C:\Users\Jajul\Downloads\assets\minecraft\textures\entity\piglin
+2025-10-20 11:57:40 - Modified directory: C:\Users\Jajul\Downloads\bruteforce-test
+2025-10-20 11:57:40 - Modified directory: C:\Users\Jajul\Downloads\bruteforce-test\public
+2025-10-20 11:57:40 - Modified directory: C:\Users\Jajul\Downloads\bruteforce-test\src
+2025-10-20 11:57:40 - Modified directory: C:\Users\Jajul\Downloads\Chrono Cross (USA) (Disc 1)
+2025-10-20 11:57:41 - Modified directory: C:\Users\Jajul\Downloads\data
+2025-10-20 11:57:41 - Modified directory: C:\Users\Jajul\Downloads\data\epicfight
+2025-10-20 11:57:41 - Modified directory: C:\Users\Jajul\Downloads\data\epicfight\capabilities
+2025-10-20 11:57:41 - Modified directory: C:\Users\Jajul\Downloads\data\epicfight\capabilities\armors
+2025-10-20 11:57:41 - Modified directory: C:\Users\Jajul\Downloads\data\epicfight\capabilities\weapons
+2025-10-20 11:57:41 - Modified directory: C:\Users\Jajul\Downloads\data\epicfight\loot_modifiers
+2025-10-20 11:57:41 - Modified directory: C:\Users\Jajul\Downloads\data\epicfight\recipes
+2025-10-20 11:57:41 - Modified directory: C:\Users\Jajul\Downloads\data\epicfight\skill_parameters
+2025-10-20 11:57:41 - Modified directory: C:\Users\Jajul\Downloads\data\forge
+2025-10-20 11:57:41 - Modified directory: C:\Users\Jajul\Downloads\data\forge\loot_modifiers
+2025-10-20 11:57:42 - Modified directory: C:\Users\Jajul\Downloads\data\minecraft
+2025-10-20 11:57:42 - Modified directory: C:\Users\Jajul\Downloads\data\minecraft\capabilities
+2025-10-20 11:57:42 - Modified directory: C:\Users\Jajul\Downloads\data\minecraft\capabilities\armors
+2025-10-20 11:57:42 - Modified directory: C:\Users\Jajul\Downloads\data\minecraft\capabilities\weapons
+2025-10-20 11:57:42 - Modified directory: C:\Users\Jajul\Downloads\memtest86-usb
+2025-10-20 11:57:42 - Modified directory: C:\Users\Jajul\Downloads\memtest86-usb\Help
+2025-10-20 11:57:42 - Modified directory: C:\Users\Jajul\Downloads\memtest86-usb\Help\HTML
+2025-10-20 11:57:42 - Modified directory: C:\Users\Jajul\Downloads\META-INF
+2025-10-20 11:57:42 - Modified directory: C:\Users\Jajul\Downloads\ROMS
+2025-10-20 11:57:42 - Modified directory: C:\Users\Jajul\Downloads\ROMS\GBA
+2025-10-20 11:57:43 - Modified directory: C:\Users\Jajul\Downloads\Rufus
+2025-10-20 11:57:43 - Modified directory: C:\Users\Jajul\Downloads\spooz custom files 9.2.2023
+2025-10-20 11:57:43 - Modified directory: C:\Users\Jajul\Downloads\spooz custom files 9.2.2023\cfg
+2025-10-20 11:57:43 - Modified directory: C:\Users\Jajul\Downloads\spooz custom files 9.2.2023\cfg\overrides
+2025-10-20 11:57:43 - Modified directory: C:\Users\Jajul\Downloads\spooz custom files 9.2.2023\custom
+2025-10-20 11:57:43 - Modified directory: C:\Users\Jajul\Downloads\spooz custom files 9.2.2023\custom\comfig-custom
+2025-10-20 11:57:43 - Modified directory: C:\Users\Jajul\Downloads\spooz custom files 9.2.2023\custom\comfig-custom\scripts
+2025-10-20 11:57:43 - Modified directory: C:\Users\Jajul\Downloads\spooz custom files 9.2.2023\custom\comfig-custom\sound
+2025-10-20 11:57:43 - Modified directory: C:\Users\Jajul\Downloads\spooz custom files 9.2.2023\custom\extra overrides
+2025-10-20 11:57:43 - Modified directory: C:\Users\Jajul\Downloads\spooz custom files 9.2.2023\custom\extra overrides\cfg
+2025-10-20 11:57:44 - Modified directory: C:\Users\Jajul\Downloads\spooz custom files 9.2.2023\custom\extra overrides\cfg\overrides
+2025-10-20 11:57:44 - Modified directory: C:\Users\Jajul\Downloads\spooz custom files 9.2.2023\custom\extra overrides\sound
+2025-10-20 11:57:44 - Modified directory: C:\Users\Jajul\Downloads\spooz custom files 9.2.2023\custom\hitsounds
+2025-10-20 11:57:44 - Modified directory: C:\Users\Jajul\Downloads\spooz custom files 9.2.2023\custom\hitsounds\cfg
+2025-10-20 11:57:44 - Modified directory: C:\Users\Jajul\Downloads\spooz custom files 9.2.2023\custom\hitsounds\sound
+2025-10-20 11:57:44 - Modified directory: C:\Users\Jajul\Downloads\spooz custom files 9.2.2023\custom\hitsounds\sound\ui
+2025-10-20 11:57:44 - Modified directory: C:\Users\Jajul\Downloads\spooz custom files 9.2.2023\custom\horsies-viewmodel-editor-main
+2025-10-20 11:57:44 - Modified directory: C:\Users\Jajul\Downloads\spooz custom files 9.2.2023\custom\horsies-viewmodel-editor-main\custom animations
+2025-10-20 11:57:44 - Modified directory: C:\Users\Jajul\Downloads\spooz custom files 9.2.2023\custom\horsies-viewmodel-editor-main\custom animations\disabled
+2025-10-20 11:57:44 - Modified directory: C:\Users\Jajul\Downloads\spooz custom files 9.2.2023\custom\horsies-viewmodel-editor-main\fixed viewmodels addon
+2025-10-20 11:57:45 - Modified directory: C:\Users\Jajul\Downloads\spooz custom files 9.2.2023\custom\horsies-viewmodel-editor-main\presets
+2025-10-20 11:57:45 - Modified directory: C:\Users\Jajul\Downloads\spooz custom files 9.2.2023\custom\horsies-viewmodel-editor-main\presets\all 3
+2025-10-20 11:57:45 - Modified directory: C:\Users\Jajul\Downloads\spooz custom files 9.2.2023\custom\horsies-viewmodel-editor-main\presets\centered guns
+2025-10-20 11:57:45 - Modified directory: C:\Users\Jajul\Downloads\spooz custom files 9.2.2023\custom\horsies-viewmodel-editor-main\sound
+2025-10-20 11:57:45 - Modified directory: C:\Users\Jajul\Downloads\spooz custom files 9.2.2023\custom\horsies-viewmodel-editor-main\_dev
+2025-10-20 11:57:45 - Modified directory: C:\Users\Jajul\Downloads\spooz custom files 9.2.2023\custom\horsies-viewmodel-editor-main\_dev\batch
+2025-10-20 11:57:45 - Modified directory: C:\Users\Jajul\Downloads\spooz custom files 9.2.2023\custom\horsies-viewmodel-editor-main\_dev\batch\sequence_operations
+2025-10-20 11:57:45 - Modified directory: C:\Users\Jajul\Downloads\spooz custom files 9.2.2023\custom\horsies-viewmodel-editor-main\_dev\batch\smd_operations
+2025-10-20 11:57:45 - Modified directory: C:\Users\Jajul\Downloads\spooz custom files 9.2.2023\custom\horsies-viewmodel-editor-main\_dev\decompiled_animations
+2025-10-20 11:57:46 - Modified directory: C:\Users\Jajul\Downloads\spooz custom files 9.2.2023\custom\horsies-viewmodel-editor-main\_dev\decompiled_animations\c_demo_animations_anims
+2025-10-20 11:57:46 - Modified directory: C:\Users\Jajul\Downloads\spooz custom files 9.2.2023\custom\horsies-viewmodel-editor-main\_dev\decompiled_animations\c_engineer_animations_anims
+2025-10-20 11:57:46 - Modified directory: C:\Users\Jajul\Downloads\spooz custom files 9.2.2023\custom\horsies-viewmodel-editor-main\_dev\decompiled_animations\c_heavy_animations_anims
+2025-10-20 11:57:46 - Modified directory: C:\Users\Jajul\Downloads\spooz custom files 9.2.2023\custom\horsies-viewmodel-editor-main\_dev\decompiled_animations\c_medic_animations_anims
+2025-10-20 11:57:46 - Modified directory: C:\Users\Jajul\Downloads\spooz custom files 9.2.2023\custom\horsies-viewmodel-editor-main\_dev\decompiled_animations\c_pyro_animations_anims
+2025-10-20 11:57:46 - Modified directory: C:\Users\Jajul\Downloads\spooz custom files 9.2.2023\custom\horsies-viewmodel-editor-main\_dev\decompiled_animations\c_scout_animations_anims
+2025-10-20 11:57:46 - Modified directory: C:\Users\Jajul\Downloads\spooz custom files 9.2.2023\custom\horsies-viewmodel-editor-main\_dev\decompiled_animations\c_sniper_animations_anims
+2025-10-20 11:57:46 - Modified directory: C:\Users\Jajul\Downloads\spooz custom files 9.2.2023\custom\horsies-viewmodel-editor-main\_dev\decompiled_animations\c_soldier_animations_anims
+2025-10-20 11:57:46 - Modified directory: C:\Users\Jajul\Downloads\spooz custom files 9.2.2023\custom\horsies-viewmodel-editor-main\_dev\decompiled_animations\c_spy_animations_anims
+2025-10-20 11:57:47 - Modified directory: C:\Users\Jajul\Downloads\spooz custom files 9.2.2023\custom\horsies-viewmodel-editor-main\_dev\decompiled_fixed_animations
+2025-10-20 11:57:47 - Modified directory: C:\Users\Jajul\Downloads\spooz custom files 9.2.2023\custom\horsies-viewmodel-editor-main\_dev\decompiled_fixed_animations\c_demo_animations_anims
+2025-10-20 11:57:47 - Modified directory: C:\Users\Jajul\Downloads\spooz custom files 9.2.2023\custom\horsies-viewmodel-editor-main\_dev\decompiled_fixed_animations\c_engineer_animations_anims
+2025-10-20 11:57:47 - Modified directory: C:\Users\Jajul\Downloads\spooz custom files 9.2.2023\custom\horsies-viewmodel-editor-main\_dev\decompiled_fixed_animations\c_heavy_animations_anims
+2025-10-20 11:57:47 - Modified directory: C:\Users\Jajul\Downloads\spooz custom files 9.2.2023\custom\horsies-viewmodel-editor-main\_dev\decompiled_fixed_animations\c_medic_animations_anims
+2025-10-20 11:57:47 - Modified directory: C:\Users\Jajul\Downloads\spooz custom files 9.2.2023\custom\horsies-viewmodel-editor-main\_dev\decompiled_fixed_animations\c_pyro_animations_anims
+2025-10-20 11:57:47 - Modified directory: C:\Users\Jajul\Downloads\spooz custom files 9.2.2023\custom\horsies-viewmodel-editor-main\_dev\decompiled_fixed_animations\c_scout_animations_anims
+2025-10-20 11:57:47 - Modified directory: C:\Users\Jajul\Downloads\spooz custom files 9.2.2023\custom\horsies-viewmodel-editor-main\_dev\decompiled_fixed_animations\c_sniper_animations_anims
+2025-10-20 11:57:47 - Modified directory: C:\Users\Jajul\Downloads\spooz custom files 9.2.2023\custom\horsies-viewmodel-editor-main\_dev\decompiled_fixed_animations\c_soldier_animations_anims
+2025-10-20 11:57:48 - Modified directory: C:\Users\Jajul\Downloads\spooz custom files 9.2.2023\custom\horsies-viewmodel-editor-main\_dev\decompiled_fixed_animations\c_spy_animations_anims
+2025-10-20 11:57:48 - Modified directory: C:\Users\Jajul\Downloads\spooz custom files 9.2.2023\custom\horsies-viewmodel-editor-main\_dev\default_settings
+2025-10-20 11:57:48 - Modified directory: C:\Users\Jajul\Downloads\spooz custom files 9.2.2023\custom\horsies-viewmodel-editor-main\_dev\extra_animation_fixes
+2025-10-20 11:57:48 - Modified directory: C:\Users\Jajul\Downloads\spooz custom files 9.2.2023\custom\horsies-viewmodel-editor-main\_dev\preload_files
+2025-10-20 11:57:48 - Modified directory: C:\Users\Jajul\Downloads\spooz custom files 9.2.2023\custom\horsies-viewmodel-editor-main\_dev\preload_files\cfg
+2025-10-20 11:57:48 - Modified directory: C:\Users\Jajul\Downloads\spooz custom files 9.2.2023\custom\horsies-viewmodel-editor-main\_dev\preload_files\cfg\horsies_viewmodel_editor
+2025-10-20 11:57:48 - Modified directory: C:\Users\Jajul\Downloads\spooz custom files 9.2.2023\custom\horsies-viewmodel-editor-main\_dev\preload_files\maps
+2025-10-20 11:57:48 - Modified directory: C:\Users\Jajul\Downloads\spooz custom files 9.2.2023\custom\workshop
+2025-10-20 11:57:48 - Modified directory: C:\Users\Jajul\Downloads\spooz custom files 9.2.2023\custom\workshop\sound
+2025-10-20 11:57:48 - Modified directory: C:\Users\Jajul\Downloads\spooz custom files 9.2.2023\extra hitsounds
+2025-10-20 11:57:49 - Modified directory: C:\Users\Jajul\Downloads\spooz custom files 9.2.2023\extra hitsounds\bababoui
+2025-10-20 11:57:49 - Modified directory: C:\Users\Jajul\Downloads\spooz custom files 9.2.2023\extra hitsounds\blaze
+2025-10-20 11:57:49 - Modified directory: C:\Users\Jajul\Downloads\spooz custom files 9.2.2023\extra hitsounds\dbz punch killsound
+2025-10-20 11:57:49 - Modified directory: C:\Users\Jajul\Downloads\spooz custom files 9.2.2023\extra hitsounds\fnf
+2025-10-20 11:57:49 - Modified directory: C:\Users\Jajul\Downloads\spooz custom files 9.2.2023\extra hitsounds\josh sound
+2025-10-20 11:57:49 - Modified directory: C:\Users\Jajul\Downloads\spooz custom files 9.2.2023\extra hitsounds\lego
+2025-10-20 11:57:49 - Modified directory: C:\Users\Jajul\Downloads\spooz custom files 9.2.2023\extra hitsounds\melee fox
+2025-10-20 11:57:49 - Modified directory: C:\Users\Jajul\Downloads\spooz custom files 9.2.2023\extra hitsounds\melee fox sounds
+2025-10-20 11:57:49 - Modified directory: C:\Users\Jajul\Downloads\spooz custom files 9.2.2023\extra hitsounds\melee fox sounds\cfg
+2025-10-20 11:57:49 - Modified directory: C:\Users\Jajul\Downloads\spooz custom files 9.2.2023\extra hitsounds\melee fox sounds\sound
+2025-10-20 11:57:50 - Modified directory: C:\Users\Jajul\Downloads\spooz custom files 9.2.2023\extra hitsounds\melee fox sounds\sound\ui
+2025-10-20 11:57:50 - Modified directory: C:\Users\Jajul\Downloads\spooz custom files 9.2.2023\extra hitsounds\mrbeast
+2025-10-20 11:57:50 - Modified directory: C:\Users\Jajul\Downloads\spooz custom files 9.2.2023\extra hitsounds\quake sound
+2025-10-20 11:57:50 - Modified directory: C:\Users\Jajul\Downloads\spooz custom files 9.2.2023\extra hitsounds\senchou horny
+2025-10-20 11:57:50 - Modified directory: C:\Users\Jajul\Downloads\spooz custom files 9.2.2023\extra hitsounds\shroomlight
+2025-10-20 11:57:50 - Modified directory: C:\Users\Jajul\Downloads\spooz custom files 9.2.2023\extra hitsounds\sound
+2025-10-20 11:57:50 - Modified directory: C:\Users\Jajul\Downloads\spooz custom files 9.2.2023\extra hitsounds\sound\ui
+2025-10-20 11:57:50 - Modified directory: C:\Users\Jajul\Downloads\yesman
+2025-10-20 11:57:51 - Modified directory: C:\Users\Jajul\Downloads\yesman\epicfight
+2025-10-20 11:57:51 - Modified directory: C:\Users\Jajul\Downloads\yesman\epicfight\api
+2025-10-20 11:57:51 - Modified directory: C:\Users\Jajul\Downloads\yesman\epicfight\api\animation
+2025-10-20 11:57:51 - Modified directory: C:\Users\Jajul\Downloads\yesman\epicfight\api\animation\property
+2025-10-20 11:57:51 - Modified directory: C:\Users\Jajul\Downloads\yesman\epicfight\api\animation\types
+2025-10-20 11:57:51 - Modified directory: C:\Users\Jajul\Downloads\yesman\epicfight\api\animation\types\grappling
+2025-10-20 11:57:51 - Modified directory: C:\Users\Jajul\Downloads\yesman\epicfight\api\animation\types\procedural
+2025-10-20 11:57:51 - Modified directory: C:\Users\Jajul\Downloads\yesman\epicfight\api\client
+2025-10-20 11:57:51 - Modified directory: C:\Users\Jajul\Downloads\yesman\epicfight\api\client\animation
+2025-10-20 11:57:51 - Modified directory: C:\Users\Jajul\Downloads\yesman\epicfight\api\client\animation\property
+2025-10-20 11:57:52 - Modified directory: C:\Users\Jajul\Downloads\yesman\epicfight\api\client\forgeevent
+2025-10-20 11:57:52 - Modified directory: C:\Users\Jajul\Downloads\yesman\epicfight\api\client\model
+2025-10-20 11:57:52 - Modified directory: C:\Users\Jajul\Downloads\yesman\epicfight\api\client\model\armor
+2025-10-20 11:57:52 - Modified directory: C:\Users\Jajul\Downloads\yesman\epicfight\api\collider
+2025-10-20 11:57:52 - Modified directory: C:\Users\Jajul\Downloads\yesman\epicfight\api\data
+2025-10-20 11:57:52 - Modified directory: C:\Users\Jajul\Downloads\yesman\epicfight\api\data\reloader
+2025-10-20 11:57:52 - Modified directory: C:\Users\Jajul\Downloads\yesman\epicfight\api\forgeevent
+2025-10-20 11:57:52 - Modified directory: C:\Users\Jajul\Downloads\yesman\epicfight\api\model
+2025-10-20 11:57:52 - Modified directory: C:\Users\Jajul\Downloads\yesman\epicfight\api\utils
+2025-10-20 11:57:52 - Modified directory: C:\Users\Jajul\Downloads\yesman\epicfight\api\utils\math
+2025-10-20 11:57:53 - Modified directory: C:\Users\Jajul\Downloads\yesman\epicfight\client
+2025-10-20 11:57:53 - Modified directory: C:\Users\Jajul\Downloads\yesman\epicfight\client\events
+2025-10-20 11:57:53 - Modified directory: C:\Users\Jajul\Downloads\yesman\epicfight\client\events\engine
+2025-10-20 11:57:53 - Modified directory: C:\Users\Jajul\Downloads\yesman\epicfight\client\gui
+2025-10-20 11:57:53 - Modified directory: C:\Users\Jajul\Downloads\yesman\epicfight\client\gui\screen
+2025-10-20 11:57:53 - Modified directory: C:\Users\Jajul\Downloads\yesman\epicfight\client\gui\screen\overlay
+2025-10-20 11:57:53 - Modified directory: C:\Users\Jajul\Downloads\yesman\epicfight\client\gui\widget
+2025-10-20 11:57:53 - Modified directory: C:\Users\Jajul\Downloads\yesman\epicfight\client\input
+2025-10-20 11:57:53 - Modified directory: C:\Users\Jajul\Downloads\yesman\epicfight\client\mesh
+2025-10-20 11:57:53 - Modified directory: C:\Users\Jajul\Downloads\yesman\epicfight\client\particle
+2025-10-20 11:57:54 - Modified directory: C:\Users\Jajul\Downloads\yesman\epicfight\client\renderer
+2025-10-20 11:57:54 - Modified directory: C:\Users\Jajul\Downloads\yesman\epicfight\client\renderer\blockentity
+2025-10-20 11:57:54 - Modified directory: C:\Users\Jajul\Downloads\yesman\epicfight\client\renderer\entity
+2025-10-20 11:57:54 - Modified directory: C:\Users\Jajul\Downloads\yesman\epicfight\client\renderer\patched
+2025-10-20 11:57:54 - Modified directory: C:\Users\Jajul\Downloads\yesman\epicfight\client\renderer\patched\entity
+2025-10-20 11:57:54 - Modified directory: C:\Users\Jajul\Downloads\yesman\epicfight\client\renderer\patched\item
+2025-10-20 11:57:54 - Modified directory: C:\Users\Jajul\Downloads\yesman\epicfight\client\renderer\patched\layer
+2025-10-20 11:57:54 - Modified directory: C:\Users\Jajul\Downloads\yesman\epicfight\client\world
+2025-10-20 11:57:54 - Modified directory: C:\Users\Jajul\Downloads\yesman\epicfight\client\world\capabilites
+2025-10-20 11:57:55 - Modified directory: C:\Users\Jajul\Downloads\yesman\epicfight\client\world\capabilites\entitypatch
+2025-10-20 11:57:55 - Modified directory: C:\Users\Jajul\Downloads\yesman\epicfight\client\world\capabilites\entitypatch\player
+2025-10-20 11:57:55 - Modified directory: C:\Users\Jajul\Downloads\yesman\epicfight\compat
+2025-10-20 11:57:55 - Modified directory: C:\Users\Jajul\Downloads\yesman\epicfight\config
+2025-10-20 11:57:55 - Modified directory: C:\Users\Jajul\Downloads\yesman\epicfight\data
+2025-10-20 11:57:55 - Modified directory: C:\Users\Jajul\Downloads\yesman\epicfight\data\loot
+2025-10-20 11:57:55 - Modified directory: C:\Users\Jajul\Downloads\yesman\epicfight\data\loot\function
+2025-10-20 11:57:55 - Modified directory: C:\Users\Jajul\Downloads\yesman\epicfight\events
+2025-10-20 11:57:55 - Modified directory: C:\Users\Jajul\Downloads\yesman\epicfight\gameasset
+2025-10-20 11:57:55 - Modified directory: C:\Users\Jajul\Downloads\yesman\epicfight\main
+2025-10-20 11:57:56 - Modified directory: C:\Users\Jajul\Downloads\yesman\epicfight\mixin
+2025-10-20 11:57:56 - Modified directory: C:\Users\Jajul\Downloads\yesman\epicfight\model
+2025-10-20 11:57:56 - Modified directory: C:\Users\Jajul\Downloads\yesman\epicfight\model\armature
+2025-10-20 11:57:56 - Modified directory: C:\Users\Jajul\Downloads\yesman\epicfight\network
+2025-10-20 11:57:56 - Modified directory: C:\Users\Jajul\Downloads\yesman\epicfight\network\client
+2025-10-20 11:57:56 - Modified directory: C:\Users\Jajul\Downloads\yesman\epicfight\network\server
+2025-10-20 11:57:56 - Modified directory: C:\Users\Jajul\Downloads\yesman\epicfight\particle
+2025-10-20 11:57:56 - Modified directory: C:\Users\Jajul\Downloads\yesman\epicfight\server
+2025-10-20 11:57:56 - Modified directory: C:\Users\Jajul\Downloads\yesman\epicfight\server\commands
+2025-10-20 11:57:56 - Modified directory: C:\Users\Jajul\Downloads\yesman\epicfight\server\commands\arguments
+2025-10-20 11:57:57 - Modified directory: C:\Users\Jajul\Downloads\yesman\epicfight\skill
+2025-10-20 11:57:57 - Modified directory: C:\Users\Jajul\Downloads\yesman\epicfight\skill\dodge
+2025-10-20 11:57:57 - Modified directory: C:\Users\Jajul\Downloads\yesman\epicfight\skill\guard
+2025-10-20 11:57:57 - Modified directory: C:\Users\Jajul\Downloads\yesman\epicfight\skill\identity
+2025-10-20 11:57:57 - Modified directory: C:\Users\Jajul\Downloads\yesman\epicfight\skill\mover
+2025-10-20 11:57:57 - Modified directory: C:\Users\Jajul\Downloads\yesman\epicfight\skill\passive
+2025-10-20 11:57:57 - Modified directory: C:\Users\Jajul\Downloads\yesman\epicfight\skill\weaponinnate
+2025-10-20 11:57:57 - Modified directory: C:\Users\Jajul\Downloads\yesman\epicfight\world
+2025-10-20 11:57:57 - Modified directory: C:\Users\Jajul\Downloads\yesman\epicfight\world\capabilities
+2025-10-20 11:57:57 - Modified directory: C:\Users\Jajul\Downloads\yesman\epicfight\world\capabilities\entitypatch
+2025-10-20 11:57:58 - Modified directory: C:\Users\Jajul\Downloads\yesman\epicfight\world\capabilities\entitypatch\boss
+2025-10-20 11:57:58 - Modified directory: C:\Users\Jajul\Downloads\yesman\epicfight\world\capabilities\entitypatch\boss\enderdragon
+2025-10-20 11:57:58 - Modified directory: C:\Users\Jajul\Downloads\yesman\epicfight\world\capabilities\entitypatch\mob
+2025-10-20 11:57:58 - Modified directory: C:\Users\Jajul\Downloads\yesman\epicfight\world\capabilities\entitypatch\player
+2025-10-20 11:57:58 - Modified directory: C:\Users\Jajul\Downloads\yesman\epicfight\world\capabilities\item
+2025-10-20 11:57:58 - Modified directory: C:\Users\Jajul\Downloads\yesman\epicfight\world\capabilities\projectile
+2025-10-20 11:57:58 - Modified directory: C:\Users\Jajul\Downloads\yesman\epicfight\world\capabilities\provider
+2025-10-20 11:57:58 - Modified directory: C:\Users\Jajul\Downloads\yesman\epicfight\world\capabilities\skill
+2025-10-20 11:57:58 - Modified directory: C:\Users\Jajul\Downloads\yesman\epicfight\world\damagesource
+2025-10-20 11:57:58 - Modified directory: C:\Users\Jajul\Downloads\yesman\epicfight\world\effect
+2025-10-20 11:57:59 - Modified directory: C:\Users\Jajul\Downloads\yesman\epicfight\world\entity
+2025-10-20 11:57:59 - Modified directory: C:\Users\Jajul\Downloads\yesman\epicfight\world\entity\ai
+2025-10-20 11:57:59 - Modified directory: C:\Users\Jajul\Downloads\yesman\epicfight\world\entity\ai\attribute
+2025-10-20 11:57:59 - Modified directory: C:\Users\Jajul\Downloads\yesman\epicfight\world\entity\ai\brain
+2025-10-20 11:57:59 - Modified directory: C:\Users\Jajul\Downloads\yesman\epicfight\world\entity\ai\brain\task
+2025-10-20 11:57:59 - Modified directory: C:\Users\Jajul\Downloads\yesman\epicfight\world\entity\ai\goal
+2025-10-20 11:57:59 - Modified directory: C:\Users\Jajul\Downloads\yesman\epicfight\world\entity\eventlistener
+2025-10-20 11:57:59 - Modified directory: C:\Users\Jajul\Downloads\yesman\epicfight\world\gamerule
+2025-10-20 11:57:59 - Modified directory: C:\Users\Jajul\Downloads\yesman\epicfight\world\item
+2025-10-20 11:57:59 - Modified directory: C:\Users\Jajul\Downloads\yesman\epicfight\world\level
+2025-10-20 11:58:00 - Modified directory: C:\Users\Jajul\Downloads\yesman\epicfight\world\level\block
+2025-10-20 11:58:00 - Modified directory: C:\Users\Jajul\Downloads\yesman\epicfight\world\level\block\entity
+2025-10-20 11:59:05 - Deleted directory: D:\Python_projects\windows_siem\download_event_log\download_activity.log
+2025-10-20 11:59:14 - Deleted file: C:\Users\Jajul\Downloads\download (1).jpg
+2025-10-20 11:59:14 - Deleted file: C:\Users\Jajul\Downloads\download (2).jpg
+2025-10-20 11:59:17 - Created file: C:\Users\Jajul\Downloads\83f8e490-cf69-4267-9589-3ce51904d6b6.tmp
+2025-10-20 11:59:17 - Modified file: C:\Users\Jajul\Downloads\83f8e490-cf69-4267-9589-3ce51904d6b6.tmp
+2025-10-20 11:59:17 - Modified file: C:\Users\Jajul\Downloads\83f8e490-cf69-4267-9589-3ce51904d6b6.tmp
+2025-10-20 11:59:31 - File: fOqVi.png No data retrieval from VirusTotal
+2025-10-20 11:59:31 - END LOG
+2025-10-20 11:59:31 - Created file: C:\Users\Jajul\Downloads\fOqVi.png
+2025-10-20 11:59:31 - Deleted file: C:\Users\Jajul\Downloads\fOqVi.png
+2025-10-20 11:59:31 - Moved file: from C:\Users\Jajul\Downloads\83f8e490-cf69-4267-9589-3ce51904d6b6.tmp to C:\Users\Jajul\Downloads\fOqVi.png.opdownload
+2025-10-20 11:59:31 - Moved file: from C:\Users\Jajul\Downloads\fOqVi.png.opdownload to C:\Users\Jajul\Downloads\fOqVi.png
+2025-10-20 11:59:31 - Modified file: C:\Users\Jajul\Downloads\fOqVi.png
+2025-10-20 12:00:55 - Deleted directory: D:\Python_projects\windows_siem\download_event_log\download_activity.log
+2025-10-20 12:01:15 - File: download (1).jpg No data retrieval from VirusTotal
+2025-10-20 12:01:15 - END LOG
+2025-10-20 12:05:56 - Deleted directory: D:\Python_projects\windows_siem\download_event_log\download_activity.log
+2025-10-20 12:06:07 - Deleted file: C:\Users\Jajul\Downloads\fOqVi.png
+2025-10-20 12:06:07 - Deleted file: C:\Users\Jajul\Downloads\download (1).jpg
+2025-10-20 12:06:12 - Created file: C:\Users\Jajul\Downloads\ffc9698e-c81e-4628-a7e1-105aeead1d13.tmp
+2025-10-20 12:06:12 - Modified file: C:\Users\Jajul\Downloads\ffc9698e-c81e-4628-a7e1-105aeead1d13.tmp
+2025-10-20 12:06:12 - Modified file: C:\Users\Jajul\Downloads\ffc9698e-c81e-4628-a7e1-105aeead1d13.tmp
+2025-10-20 12:06:25 - File Hash:2eaa0671c8cd796607d954ee99b27ab4119b30ab46f9a7de54b110aa6a5604ac | Extension:.png | FilePath:C:\Users\Jajul\Downloads\Capture-300x195.png
+2025-10-20 12:06:25 - File: Capture-300x195.png No data retrieval from VirusTotal
+2025-10-20 12:06:25 - END LOG
+2025-10-20 12:06:25 - Created file: C:\Users\Jajul\Downloads\Capture-300x195.png
+2025-10-20 12:06:25 - Deleted file: C:\Users\Jajul\Downloads\Capture-300x195.png
+2025-10-20 12:06:25 - Moved file: from C:\Users\Jajul\Downloads\ffc9698e-c81e-4628-a7e1-105aeead1d13.tmp to C:\Users\Jajul\Downloads\Capture-300x195.png.opdownload
+2025-10-20 12:06:25 - Moved file: from C:\Users\Jajul\Downloads\Capture-300x195.png.opdownload to C:\Users\Jajul\Downloads\Capture-300x195.png
+2025-10-20 12:06:25 - Modified file: C:\Users\Jajul\Downloads\Capture-300x195.png
+2025-10-20 12:07:26 - Deleted directory: D:\Python_projects\windows_siem\download_event_log\download_activity.log
+2025-10-20 12:14:53 - Modified file: C:\Users\Jajul\Downloads\desktop.ini
+2025-10-20 12:21:01 - Created file: C:\Users\Jajul\Downloads\480f4a63-c16f-46f4-ab96-2807e0ccce2a.tmp
+2025-10-20 12:21:01 - Modified file: C:\Users\Jajul\Downloads\480f4a63-c16f-46f4-ab96-2807e0ccce2a.tmp
+2025-10-20 12:21:01 - Moved file: from C:\Users\Jajul\Downloads\480f4a63-c16f-46f4-ab96-2807e0ccce2a.tmp to C:\Users\Jajul\Downloads\shadowcopyview-x64.zip.opdownload
+2025-10-20 12:21:01 - Modified file: C:\Users\Jajul\Downloads\shadowcopyview-x64.zip.opdownload
+2025-10-20 12:21:01 - Modified file: C:\Users\Jajul\Downloads\shadowcopyview-x64.zip.opdownload
+2025-10-20 12:21:01 - Moved file: from C:\Users\Jajul\Downloads\shadowcopyview-x64.zip.opdownload to C:\Users\Jajul\Downloads\shadowcopyview-x64.zip
+2025-10-20 12:21:02 - Modified file: C:\Users\Jajul\Downloads\shadowcopyview-x64.zip
+2025-10-20 12:21:02 - Modified file: C:\Users\Jajul\Downloads\shadowcopyview-x64.zip
+2025-10-20 12:21:02 - Modified file: C:\Users\Jajul\Downloads\shadowcopyview-x64.zip
+2025-10-20 12:21:02 - Modified file: C:\Users\Jajul\Downloads\shadowcopyview-x64.zip
+2025-10-20 12:21:03 - Modified file: C:\Users\Jajul\Downloads\shadowcopyview-x64.zip
+2025-10-20 12:21:09 - Created directory: C:\Users\Jajul\Downloads\shadowcopyview-x64
+2025-10-20 12:25:20 - Deleted directory: D:\Python_projects\windows_siem\download_event_log\download_activity.log
+2025-10-20 12:26:13 - Deleted file: C:\Users\Jajul\Downloads\treesize-9.5-installer_fe-Cqk1.exe
+2025-10-20 12:26:14 - Modified file: C:\Users\Jajul\Downloads\NCS_application.docx
+2025-10-20 12:26:42 - Created file: C:\Users\Jajul\Downloads\treesize-9.5-installer.exe
+2025-10-20 12:26:53 - File Hash:8857c6a6dffe66ac6990f637a827f449bbf307ef795de2853fe19d3786c512b0 | Extension:.exe | FilePath:C:\Users\Jajul\Downloads\treesize-9.5-installer.exe
+2025-10-20 12:26:53 - Modified file: C:\Users\Jajul\Downloads\treesize-9.5-installer.exe
+2025-10-20 12:27:13 - Deleted file: C:\Users\Jajul\Downloads\treesize-9.5-installer.exe
+2025-10-20 12:32:30 - Modified file: C:\Users\Jajul\Downloads\desktop.ini
+2025-10-20 12:37:17 - Modified file: C:\Users\Jajul\Downloads\desktop.ini
+2025-10-20 12:39:09 - Modified file: C:\Users\Jajul\Downloads\BUILD-README.url
+2025-10-20 12:39:55 - Modified directory: C:\Users\Jajul\Downloads\memtest86-usb
+2025-10-20 13:40:39 - Deleted directory: D:\Python_projects\windows_siem\download_event_log\download_activity.log
+2025-10-20 13:59:57 - Deleted directory: D:\Python_projects\windows_siem\download_event_log\download_activity.log
